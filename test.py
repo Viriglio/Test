@@ -1,1 +1,1 @@
-credonegliesseriumanichehannocoraggiocoraggiodiessereumani
+import numpy
